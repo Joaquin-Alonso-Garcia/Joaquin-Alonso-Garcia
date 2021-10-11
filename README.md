@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joaquin-Alonso-Garcia
 - 👀 I’m interested in Web Development and UX/UI Design
-- 🌱 I’m currently learning Javascript in order to learn its frameworks
+- 🌱 I’m constantly learning javaScript
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me > joaco.alonso.garcia@gmail.com
 
