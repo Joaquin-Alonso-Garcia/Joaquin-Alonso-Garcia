@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Joaquin-Alonso-Garcia
+- 👋 Hi, I’m @Joaquin-MC
 - 👀 I’m interested in Web Development and UX/UI Design
 - 🌱 I’m constantly learning javaScript
 - 💞️ I’m looking to collaborate on web development projects
