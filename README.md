@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Joaquin-MC
-- 👀 I’m interested in Web Development and UX/UI Design
+- 🌐 I’m interested in Web Development and UX/UI Design
 - 🌱 I’m constantly improving in web development
-- 💞️ I’m looking to collaborate on web development projects
+- 👨‍💻 I’m looking to collaborate on web development projects
 - 📫 How to reach me > joaco.alonso.garcia@gmail.com
 
 <!---
